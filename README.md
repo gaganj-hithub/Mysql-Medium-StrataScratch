@@ -1,0 +1,1 @@
+# Mysql-Medium-StrataScratch
